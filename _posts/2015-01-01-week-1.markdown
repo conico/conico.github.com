@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Week 1!"
+title:  "52 Week Photo Challange: Week 1!"
 date:   2015-01-01 00:00:01
 description: Conico 365 Days Photo Challange Week 1
 categories:
-- 365days
+- 52week
 ---
 
 ![365 Days Challange - Day 1](/365/day_1.jpg)
@@ -31,6 +31,6 @@ categories:
 `F number` 6,3,
 `Exposure time` 1/640
 
-We don't have a like button, so if you like any of this photos, please don't forget to like via our [Flickr](http://flickr.com/conicostudio) or [Facebook](http://facebook.com/conicostudio) pages. 
+We don't have a like button, so if you like any of this photos, please don't forget to like via our [Flickr](https://www.flickr.com/photos/129418355@N02/) or [Facebook](http://facebook.com/conicostudio) pages. 
 
 Best! :)
