@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Week 1!"
+date:   2015-01-01 00:00:01
+description: Conico 365 Days Photo Challange Week 1
+categories:
+- 365days
+---
+
+![365 Days Challange - Day 1](/365/day_1.jpg)
+`Location` GOP / Ankara,
+`Focal length` 26,
+`F number` 20,
+`Exposure time` 25
+
+![365 Days Challange - Day 1](/365/day_2.jpg)
+`Location` Cinnah Caddesi / Ankara,
+`Focal length` 185,
+`F number` 22,
+`Exposure time` 10
+
+![365 Days Challange - Day 1](/365/day_3.jpg)
+`Location` Kuğulu Park / Ankara,
+`Focal length` 26,
+`F number` 20,
+`Exposure time` 25
+
+![365 Days Challange - Day 1](/365/day_4.jpg)
+`Location` Bilkent / Ankara,
+`Focal length` 66,
+`F number` 6,3,
+`Exposure time` 1/640
+
+We don't have a like button, so if you like any of this photos, please don't forget to like via our [Flickr](http://flickr.com/conicostudio) or [Facebook](http://facebook.com/conicostudio) pages. 
+
+Best! :)
