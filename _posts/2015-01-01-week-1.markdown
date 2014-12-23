@@ -7,25 +7,25 @@ categories:
 - 52week
 ---
 
-![365 Days Challange - Day 1](/365/day_1.jpg)
+{% lightbox 365/day_1.jpg, Week 1 Photo 1, Week 1 Photo 1 %}
 `Location` GOP / Ankara,
 `Focal length` 26,
 `F number` 20,
 `Exposure time` 25
 
-![365 Days Challange - Day 1](/365/day_2.jpg)
+{% lightbox 365/day_2.jpg, Week 1 Photo 2, Week 1 Photo 2 %}
 `Location` Cinnah Caddesi / Ankara,
 `Focal length` 185,
 `F number` 22,
 `Exposure time` 10
 
-![365 Days Challange - Day 1](/365/day_3.jpg)
+{% lightbox 365/day_3.jpg, Week 1 Photo 3, Week 1 Photo 3 %}
 `Location` Kuğulu Park / Ankara,
 `Focal length` 26,
 `F number` 20,
 `Exposure time` 25
 
-![365 Days Challange - Day 1](/365/day_4.jpg)
+{% lightbox 365/day_4.jpg, Week 1 Photo 4, Week 1 Photo 4 %}
 `Location` Bilkent / Ankara,
 `Focal length` 66,
 `F number` 6,3,
